@@ -1,0 +1,1 @@
+# Array-less-up-down-numaric-triangle
