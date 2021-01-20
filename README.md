@@ -1,4 +1,4 @@
-# Array-less-up-down-numaric-triangle
+# Array-less-up-down-numerical-triangle
 
 run
 
